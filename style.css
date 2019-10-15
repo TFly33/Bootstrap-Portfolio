@@ -63,3 +63,25 @@ hr
 {
   border-bottom: 2px solid gray;
 }
+
+.col-4
+{
+  padding:2px;
+}
+
+.containerportfolio
+{
+  margin-top: 15px; 
+  width:70%;
+}
+
+.containerportfoliotwo
+{
+  width:70%;
+  padding-bottom: 20px;
+}
+
+.card-title
+{
+ margin-top: 100px;
+}
