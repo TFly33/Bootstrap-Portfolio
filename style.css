@@ -8,15 +8,9 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-
-.backgroundcolor
-{
-    background-color: gray;
-}
-
 .container
 {
-    background-color: white;
+    background-color:white;
 }
 
 .secondcontainer
@@ -25,7 +19,47 @@
     padding-top: 15px;
 }
 
-hr{
-border-top: 2px solid gray;
-background-color: white;
+.contactcontainer
+{
+  margin-top: 20px;
+}
+
+body {
+  background-image: url("./concrete_seamless.png");
+}
+
+.borderbottom 
+{
+  border-bottom: 2px solid gray;
+  margin-bottom: 30px;
+  width: 100%;
+  margin-left: 5px;
+}
+
+.footer 
+{
+position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    color: white;
+}
+
+.btn
+{
+margin-bottom: 5px;
+margin-top: -5px;
+}
+
+.contactfooter
+{
+margin-right: 80px;
+width: 100%;
+text-align: center;
+}
+
+hr
+{
+  border-bottom: 2px solid gray;
 }
